@@ -7,7 +7,7 @@
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/@peter-boakye)
+* [LinkedIn](https://www.linkedin.com/in/@peterboakye)
 * [Twitter](https://twitter.com/PeterKwaBoakye)
 * [Email](mailto:petboa123@gmail.com)
 * [Instagram](https://instagram.com/peter.qweku.boakye?igshid=ZGUzMzM3NWJiOQ==)
