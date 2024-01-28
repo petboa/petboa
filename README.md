@@ -11,6 +11,7 @@
 * [Twitter](https://twitter.com/PeterKwaBoakye)
 * [Email](mailto:petboa123@gmail.com)
 * [Instagram](https://instagram.com/peter.qweku.boakye?igshid=ZGUzMzM3NWJiOQ==)
+* [Portfolio Website](https://petboa.pages.dev)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petboa&layout=compact)](https://github.com/petboa/github-readme-stats)
 
