@@ -1,26 +1,26 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+PETER;I+Learn+By+Doing)](https://git.io/typing-svg)
-# Hi I'm PETER BOAKYE.👋
+# Hi there! I'm **PETER BOAKYE.** 👋
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### 🚀 Software Engineering Student at ALX, Learning by Doing!
 
-- #### 🔭 I’m currently working on my coding skills.
-- #### 👯 I’m open to collaborate on Software Engineering projects.
+- 🔭 Currently honing my coding skills.
+- 📊 Exploring the fascinating world of Data Analytics.
 
-# Contact 
+# 🌐 Let's Connect!
 * [LinkedIn](https://www.linkedin.com/in/@peterboakye)
 * [Twitter](https://twitter.com/PeterKwaBoakye)
 * [Email](mailto:petboa123@gmail.com)
 * [Instagram](https://instagram.com/peter.qweku.boakye?igshid=ZGUzMzM3NWJiOQ==)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petboa&layout=compact)](https://github.com/petboa/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petboa&layout=compact)](https://github.com/petboa/github-readme-stats)
 
-## QUESTION AND ANSWER WEBSITE 
+## 🌟 Q&A Websites I Frequent
 * [Stackoverflow](https://Stackoverflow.com/)
 * [GitHub](https://github.com/)
 * [Quora](https://quora.com/)
 * [Reddit](https://reddit.com/)
-* [Stack exchange](https://Stackexchange.com/)
-* [Code project](https://codeproject.com/)
-* [Programmers heaven](https://programmersheaven.com/)
+* [Stack Exchange](https://Stackexchange.com/)
+* [Code Project](https://codeproject.com/)
+* [Programmers Heaven](https://programmersheaven.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petboa&show_icons=true&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petboa&show_icons=true&theme=radical)
